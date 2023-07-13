@@ -1,0 +1,7 @@
+D:\exercises\13-7\day4 ex1\day4 ex1\bin\Debug\day4 ex1.exe.config
+D:\exercises\13-7\day4 ex1\day4 ex1\bin\Debug\day4 ex1.exe
+D:\exercises\13-7\day4 ex1\day4 ex1\bin\Debug\day4 ex1.pdb
+D:\exercises\13-7\day4 ex1\day4 ex1\obj\Debug\day4 ex1.csproj.AssemblyReference.cache
+D:\exercises\13-7\day4 ex1\day4 ex1\obj\Debug\day4 ex1.csproj.CoreCompileInputs.cache
+D:\exercises\13-7\day4 ex1\day4 ex1\obj\Debug\day4 ex1.exe
+D:\exercises\13-7\day4 ex1\day4 ex1\obj\Debug\day4 ex1.pdb
